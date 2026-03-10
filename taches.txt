@@ -1,5 +1,8 @@
+ HEAD
 HEAD
 evaluation des perfermonce main 
 
-collect netyoyage et preparation des donnes poutorrrrrrrrrrrrrrrrrrrrrrrrrr 
- journaln1
+collect netyoyage et preparation des donnes poutorrrrrrrrrrrrrrrrrrr
+deploiement de modelle et intergration  torrrrrrrrrrrrrrrrrrrrrrrrrr 
+ api
+journaln1
